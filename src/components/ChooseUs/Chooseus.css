@@ -1,0 +1,17 @@
+.divider{
+    height: 3px;
+    background-color:rgb(26, 26, 89) ;
+    width: 50px;
+    margin-bottom: 30px;
+}
+.chooseCard{
+    background-color: rgb(219 244 255);
+}
+.chooseCard1{
+   background-color:  rgb(219 244 255);
+   border-top: 5px solid rgb(242, 237, 255) !important ;
+   margin-top: 30px;
+}
+.coursescontainer{
+    margin-top: 10px;
+}

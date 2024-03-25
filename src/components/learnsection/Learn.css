@@ -1,0 +1,15 @@
+.divider{
+    height: 3px;
+    background-color:rgb(26, 26, 89) ;
+    width: 50px;
+    margin-bottom: 30px;
+}
+.chooseCard{
+    background-color: rgb(219 244 255);
+}
+.containermain{
+    margin-top: 20px;
+}
+.headermenu{
+    background-color:rgb(26, 26, 89) !important ;
+}

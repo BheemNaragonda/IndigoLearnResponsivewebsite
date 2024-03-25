@@ -1,0 +1,12 @@
+.Headasder{
+    background-color: rgb(26, 26, 89);
+
+}
+.nav-link {
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+    font-size: 36px !important;
+    padding-left: 20px;
+}
