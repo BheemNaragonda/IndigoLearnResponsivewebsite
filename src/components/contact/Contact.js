@@ -7,37 +7,37 @@ export default function Contact() {
     const openModal = () => setShowModal(true);
     const closeModal = () => setShowModal(false);
   return (
-    <div class="container-fluid Banner-Section-bg-container1" id='contact'>
-    <div class="row flex-column flex-md-row">
-      <div class="col-md-6">
-        <div class="Banner-Section-Text-Container">
-          <h1 class="Banner-Section-Heading">Kick of your ACCA Journey with IndigoLearn</h1>
-          <p class="Banner-Section-Paragraph">Signin and get all courses free access</p>
-          <button class="Banner-Section-Button2">Learning</button>
+    <div className="container-fluid Banner-Section-bg-container1" id='contact'>
+    <div className="row flex-column flex-md-row">
+      <div className="col-md-6">
+        <div className="Banner-Section-Text-Container">
+          <h1 className="Banner-Section-Heading">Kick of your ACCA Journey with IndigoLearn</h1>
+          <p className="Banner-Section-Paragraph">Signin and get all courses free access</p>
+          <button className="Banner-Section-Button2">Learning</button>
         </div>
       </div>
-      <div class="col-md-6 mt-5 mt-md-0  ">
+      <div className="col-md-6 mt-5 mt-md-0  ">
        <div className="bg-white containerform">
   
-        <h2 class="mb-4 text-center">Get in touch with us</h2>
+        <h2 className="mb-4 text-center">Get in touch with us</h2>
         <form>
-          <div class="mb-3">
-            <label for="name" class="form-label">Name</label>
-            <input type="text" class="form-control" id="name" />
+          <div className="mb-3">
+            <label for="name" className="form-label">Name</label>
+            <input type="text" className="form-control" id="name" />
           </div>
-          <div class="mb-3">
-            <label for="email" class="form-label">Email address</label>
-            <input type="email" class="form-control" id="email" aria-describedby="emailHelp" />
-            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+          <div className="mb-3">
+            <label for="email" className="form-label">Email address</label>
+            <input type="email" className="form-control" id="email" aria-describedby="emailHelp" />
+            <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div>
           </div>
-          <div class="mb-3">
-            <label for="phone" class="form-label">Phone Number</label>
-            <input type="tel" class="form-control" id="phone" />
+          <div className="mb-3">
+            <label for="phone" className="form-label">Phone Number</label>
+            <input type="tel" className="form-control" id="phone" />
           </div>
         </form>
-          <div class="text-center">
+          <div className="text-center">
   
-          <button  class="btn btn-primary text-center"  onClick={openModal}>Request a call Back</button>
+          <button  className="btn btn-primary text-center"  onClick={openModal}>Request a call Back</button>
           </div>
         </div>
       </div>
