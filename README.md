@@ -1,3 +1,6 @@
+![Screenshot from 2024-03-26 08-39-13](https://github.com/BheemNaragonda/IndigoLearnResponsivewebsite/assets/113458825/80be67c0-e17d-4a43-862f-5a71c539b212)
+![Screenshot from 2024-03-26 08-39-22](https://github.com/BheemNaragonda/IndigoLearnResponsivewebsite/assets/113458825/137238c0-ad8a-472f-9a6e-cbb6fb72da64)
+![Screenshot from 2024-03-26 08-39-40](https://github.com/BheemNaragonda/IndigoLearnResponsivewebsite/assets/113458825/77263d26-450f-4604-81ac-7413a6b0d2d8)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
